@@ -3,11 +3,11 @@
 My name is Marek! I am a Software Engineer, Technical Team Lead and researcher in Computer Science, Artificial intelligence, Education and I am interested in policies and decision making in these fields. If you find my expertise interesting, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
 
 Some basic information about me:
-- 🏎 Fun fact! I founded and lead a team of students that built the first autonomous racecar in my country!
 - 💻 I have 7 years of work experience in tech and management consulting. I will be available for further work engagements starting Summer 2021.
 - 🎓 I have graduated with an Engineering degree in Software Engineering and Innovation Management from Czech Technical University
 - 🏫 I’m currently studying Technology Policy and Artificial Intelligence at Cambridge University
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
+- 🏎 What I am most proud of: I founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true" />
