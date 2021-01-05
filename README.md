@@ -4,7 +4,7 @@ My name is Marek! I am a Software Engineer, Technical Team Lead and researcher i
 
 Some basic information about me:
 - 💻 I have 7 years of work experience in tech and management consulting. I will be available for further work engagements starting Summer 2021.
-- 👨‍💻 Tech stack: Python, Java, C++, JavaScript(React, NodeJS), SQL, PHP
+- 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 - 🎓 I have graduated with an Engineering degree in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University
 - 🏫 I’m currently studying Technology Policy and Artificial Intelligence at Cambridge University
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
