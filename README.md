@@ -15,7 +15,7 @@ Some basic information about me:
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Plavit">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plavit&langs_count=10&layout=compact&include_all_commits=true" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plavit&langs_count=12&layout=compact&include_all_commits=true" />
 </a>
 <!--
 **Plavit/Plavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
