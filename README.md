@@ -12,10 +12,10 @@ Some basic information about me:
 - 🏎 What I am most proud of: I founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 
 <a href="https://github.com/Plavit">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=14400" />
+  <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=false&include_all_commits=true&cache_seconds=14400" />
 </a>
 <a href="https://github.com/Plavit">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plavit&langs_count=10&layout=compact&include_all_commits=true&cache_seconds=14400" />
+  <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api/top-langs?username=Plavit&langs_count=10&layout=compact&include_all_commits=false&cache_seconds=14400" />
 </a>
 
 <!--
