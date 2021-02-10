@@ -20,7 +20,9 @@ Unused original GitHub Readme stats:
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=false&include_all_commits=true&cache_seconds=7200" />
 -->
 
-
+<a href="https://github.com/Plavit">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plavit&langs_count=10&layout=compact&include_all_commits=true&cache_seconds=14400" />
+</a>
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plavit&langs_count=10&layout=compact&include_all_commits=false&cache_seconds=14400" />
 </a>
