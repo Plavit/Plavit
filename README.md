@@ -35,6 +35,10 @@ Unused custom GitHub Readme stats:
 GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 -->
 
+<a href="https://github.com/Plavit">
+  <img align="center" height="200" src="https://github-readme-stats-plavit.vercel.app/api?username=Plavit" />
+</a>
+
 <!--
 **Plavit/Plavit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
