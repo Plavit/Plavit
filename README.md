@@ -14,6 +14,7 @@ Some basic information about me:
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
 </a>
+
 <!--
 Unused original GitHub Readme stats:
 <a href="https://github.com/Plavit">
