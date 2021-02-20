@@ -4,6 +4,9 @@ My name is Marek! I am a Software Engineer, Technical Team Lead and researcher i
 
 Some basic information about me:
 - 💻 I have 7 years of work experience in tech and management consulting. I am currently open to considering new work offers, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).
+<!--
+TODO add CV sometime maybe
+-->
 - 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
    - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard)
    - [🎖 A military tactical symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
@@ -17,7 +20,6 @@ Some basic information about me:
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
 </a>
-
 <!--
 Unused original GitHub Readme stats:
 <a href="https://github.com/Plavit">
