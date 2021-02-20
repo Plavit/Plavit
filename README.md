@@ -6,7 +6,7 @@ Some basic information about me:
 - 💻 I have 7 years of work experience in tech and management consulting. I am currently open to considering new work offers, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).
 - 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
    - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard)
-   - [🎖 A military tactivcal symbol generator (Javascript)](https://github.com/Military-Tactical-Graphics/milsymbol-generator)
+   - [🎖 A military tactivcal symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
    - [🚨 An autonomous racing vehicle simulator (C++)](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator)
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University
@@ -30,7 +30,7 @@ Unused original GitHub Readme stats:
 <!--
 Unused custom GitHub Readme stats:
 <a href="https://github.com/Plavit">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=false&include_all_commits=true&cache_seconds=7200" />
+  <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
 -->
 
 <!--
