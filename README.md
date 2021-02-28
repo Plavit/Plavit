@@ -3,7 +3,8 @@
 My name is Marek! I am a Software Engineer, Technical Team Lead and Researcher in Computer Science, Artificial intelligence, Education and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
 
 Some basic information about me:
-- 💻 I have 7 years of work experience in tech and management consulting. I am currently actively considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
+- 💻 I have 7 years of work experience in tech and management consulting. I am currently not actively considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
+   - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧, Currently in: Brussels, 🇧🇪
 <!--
 TODO add CV sometime maybe
 -->
