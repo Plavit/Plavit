@@ -3,7 +3,7 @@
 My name is Marek! I am a Software Engineer, Technical Team Lead and Researcher in Computer Science, Artificial intelligence, Education and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
 
 Some basic information about me:
-- 💻 I have 7 years of work experience in tech and management consulting. I am currently open to considering new work offers, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).
+- 💻 I have 7 years of work experience in tech and management consulting. I am currently actively considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
 <!--
 TODO add CV sometime maybe
 -->
@@ -20,6 +20,7 @@ TODO add CV sometime maybe
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
 </a>
+
 <!--
 Unused original GitHub Readme stats:
 <a href="https://github.com/Plavit">
