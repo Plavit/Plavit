@@ -9,7 +9,7 @@ Some basic information about me:
 TODO add CV sometime maybe
 -->
 - 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
-   - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard)
+   - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard-international)
    - [🎖 A military tactical symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
    - [🚨 An autonomous vehicle racing simulator (C++)](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator)
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
