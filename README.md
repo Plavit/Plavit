@@ -1,19 +1,23 @@
-### Hello there 👋
+# Hello there 👋
 
 My name is Marek! I am a Software Engineer, Technical Team Lead and Researcher in Computer Science, Artificial intelligence, Education and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
 
-Some basic information about me:
+## Some basic information about me
+### My work
 - 💻 I have 7 years of work experience in tech and management consulting. I am currently not actively considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
    - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧; currently in: Cambridge & London, 🇬🇧
 <!--
 TODO add CV sometime maybe
 -->
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
+
+### Other projects
 - 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
    - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard-international)
    - [🎖 A military tactical symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
    - [🚨 An autonomous vehicle racing simulator (C++)](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator)
 
+### Education
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University
 - 🏫 I’m currently studying Technology Policy at Cambridge University, where I served as a committee member for the Artificial Intelliegence society.
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
