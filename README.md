@@ -19,9 +19,9 @@ TODO add CV sometime maybe
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
 - 🏎 What I am most proud of: I co-founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 
-### Research 🔬 and Teaching 👨‍🏫
-- Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao)
-- I love teaching! I have taught several undergraduate courses already:
+### Research and Teaching 🔬
+- 👨‍🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao)
+- 👨‍🏫 I love teaching! I have taught several undergraduate courses already:
    - CS106A CIP: Python Senior Section Lead + Teacher mentoring (Stanford University, Spring 21)
    - CS50: Python seminar mentoring (Harvard University, Winter 20)
    - CS106A CIP: Python Section Lead (Stanford University, Spring 20)
