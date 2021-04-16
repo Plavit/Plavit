@@ -30,7 +30,7 @@ TODO add CV sometime maybe
 
 ### Formal Education 👨‍🎓
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
-- 👨‍💼 I also hold an MBA from Quantic School of Technology
+- 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
 - 🏫 I’m currently studying Technology Policy at Cambridge University, where I serve as a committee member for the Artificial Intelliegence society.
 
 <a href="https://github.com/Plavit">
