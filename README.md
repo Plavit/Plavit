@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Marek! I am a Software Engineer, Technical Team Lead and Researcher in Computer Science, Artificial intelligence, Education and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
+My name is Marek! I am a Software Engineer, Technical Team Lead and Researcher in Computer Science, Artificial intelligence & Sustainability and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
 
 ## Some basic information about me 🤔
 ### Work 💼
@@ -19,9 +19,17 @@ TODO add CV sometime maybe
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
 - 🏎 What I am most proud of: I co-founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 
-### Education 👨‍🎓
-- 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University
-- 🏫 I’m currently studying Technology Policy at Cambridge University, where I served as a committee member for the Artificial Intelliegence society.
+### Research 🔬 and Teaching 👨‍🏫
+- Although it is not
+- I love teaching! I have taught several undergraduate courses already:
+   - CS106A CIP Python Senior Section Lead + Teacher mentoring (Stanford University, Spring 21)
+   - CS50 Python seminar mentoring (Harvard University, Winter 20)
+   - CS106A CIP Python Section Lead (Stanford University, Spring 20)
+
+### Formal Education 👨‍🎓
+- 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
+- 👨‍💼 I also hold an MBA from Quantic School of Technology
+- 🏫 I’m currently studying Technology Policy at Cambridge University, where I serve as a committee member for the Artificial Intelliegence society.
 
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
