@@ -25,6 +25,8 @@ TODO add CV sometime maybe
    - CS106A CIP Python Senior Section Lead + Teacher mentoring (Stanford University, Spring 21)
    - CS50 Python seminar mentoring (Harvard University, Winter 20)
    - CS106A CIP Python Section Lead (Stanford University, Spring 20)
+   - C/C++ Programming (Czech Technical University, Winter 19)
+   - Software Testing (Czech Technical University, Spring 19)
 
 ### Formal Education 👨‍🎓
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
