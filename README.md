@@ -22,11 +22,11 @@ TODO add CV sometime maybe
 ### Research 🔬 and Teaching 👨‍🏫
 - Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao)
 - I love teaching! I have taught several undergraduate courses already:
-   - CS106A CIP Python Senior Section Lead + Teacher mentoring (Stanford University, Spring 21)
-   - CS50 Python seminar mentoring (Harvard University, Winter 20)
-   - CS106A CIP Python Section Lead (Stanford University, Spring 20)
-   - C/C++ Programming (Czech Technical University, Winter 19)
-   - Software Testing (Czech Technical University, Spring 19)
+   - CS106A CIP: Python Senior Section Lead + Teacher mentoring (Stanford University, Spring 21)
+   - CS50: Python seminar mentoring (Harvard University, Winter 20)
+   - CS106A CIP: Python Section Lead (Stanford University, Spring 20)
+   - B6B36PJC: C/C++ Programming Teacher (Czech Technical University, Winter 19)
+   - B6B36TS1: Software Quality Testing Teacher (Czech Technical University, Spring 19)
 
 ### Formal Education 👨‍🎓
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
