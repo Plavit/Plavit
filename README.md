@@ -20,7 +20,11 @@ TODO add CV sometime maybe
 - 🏎 What I am most proud of: I co-founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 
 ### Research and Teaching 🧪
-- 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao)
+- 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
+   - 2021-????: CHRIJ (Stanford); AI for Sustainability
+   - 2020-2021: CJSP (Cambridge); Technology Policy
+   - 2018-2020: TRACE LAB (CTU, KU Leuven, Cambridge); Autonomous Driving
+   - 2016-2018: STILL (Czech Technical University); Software Quality  
 - 👨‍🏫 I love teaching! I have taught several undergraduate courses already:
    - CS106A CIP: Python Senior Section Lead; Teacher Mentor (Stanford University, Spring 21)
    - CS50: Python Seminar Mentor (Harvard University, Winter 20)
