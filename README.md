@@ -21,8 +21,8 @@ TODO add CV sometime maybe
 
 ### Research and Teaching 🧪
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
-   - 2021-????: CHRIJ (Stanford); AI for Sustainability
-   - 2020-2021: CJSP (Cambridge); Technology Policy
+   - 2021-????: [CHRIJ (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
+   - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
    - 2018-2020: TRACE LAB (CTU, KU Leuven, Cambridge); Autonomous Driving
    - 2016-2018: STILL (Czech Technical University); Software Quality  
 - 👨‍🏫 I love teaching! I have taught several undergraduate courses already:
