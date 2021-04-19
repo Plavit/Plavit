@@ -2,9 +2,6 @@
 
 My name is Marek and I am a Software Engineer. More specifically, I am currently a Technical Team Lead and Researcher in Computer Science, Artificial intelligence & Sustainability and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
 
-# A collapsible section with markdown
-
-
 ## Some basic information about me 🤔
 ### Work 💼
 - 💻 I have 7 years of work experience in tech and management consulting. I am currently not actively considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
