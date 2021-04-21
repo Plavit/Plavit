@@ -30,7 +30,7 @@ TODO fix
 
 ### Research and Teaching 🧪
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
-   - 2021-????: [CHRIJ (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
+   - 2021-????: [SCHRIJ (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
    - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
    - 2018-2020: [TRACE LAB (CTU, KU Leuven, Cambridge)](https://www.trace-lab.com/); Autonomous Driving
    - 2016-2018: [STILL (Czech Technical University)](http://still.felk.cvut.cz/members.html); Software Quality  
