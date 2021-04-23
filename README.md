@@ -28,6 +28,12 @@ TODO fix
 </details>
 -->
 
+
+<!--
+TODO fix
+<details>
+<summary>More about my other projects 👀</summary>
+-->
 ### Research and Teaching 🧪
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
    - 2021-????: [SCHRIJ (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
@@ -40,7 +46,9 @@ TODO fix
    - CS106A CIP: Python Section Lead (Stanford University, Spring 20)
    - B6B36PJC: C/C++ Programming Teacher (Czech Technical University, Winter 19)
    - B6B36TS1: Software Quality Testing Teacher (Czech Technical University, Spring 19)
-
+<!--
+</details>
+-->
 ### Formal Education 👨‍🎓
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
