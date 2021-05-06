@@ -12,22 +12,17 @@ TODO add CV sometime maybe
 -->
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
   
-### Other projects 👀
-<!--
-TODO fix
 <details>
-<summary>More about my other projects 👀</summary>
--->
+<summary> <h3>  Other projects 👀 (Click to see more) </h3> </summary>
+  
 - 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
    - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard-international)
    - [🎖 A military tactical symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
    - [🚨 An autonomous vehicle racing simulator (C++)](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator)
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
 - 🏎 What I am most proud of: I co-founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
-
-<!--
 </details>
--->
+
 
 
 <!--
