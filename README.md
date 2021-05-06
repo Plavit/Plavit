@@ -25,12 +25,9 @@ TODO add CV sometime maybe
 
 
 
-<!--
-TODO fix
 <details>
-<summary>More about my other projects 👀</summary>
--->
-### Research and Teaching 🧪
+<summary> <h3> Research and Teaching 🧪 (Click to see more) </h3> </summary>
+
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
    - 2021-????: [SCHRIJ (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
    - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
@@ -42,13 +39,19 @@ TODO fix
    - CS106A CIP: Python Section Lead (Stanford University, Spring 20)
    - B6B36PJC: C/C++ Programming Teacher (Czech Technical University, Winter 19)
    - B6B36TS1: Software Quality Testing Teacher (Czech Technical University, Spring 19)
-<!--
+
 </details>
--->
-### Formal Education 👨‍🎓
+
+
+<details>
+<summary> <h3> Formal Education 👨‍🎓 (Click to see more) </h3> </summary>
+
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
 - 🏫 I’m currently studying Technology Policy at Cambridge University, where I serve as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
+
+
+</details>
 
 <a href="https://github.com/Plavit">
   <img align="center" height="200" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
