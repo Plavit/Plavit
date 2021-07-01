@@ -5,15 +5,17 @@ My name is Marek and I am a Software Engineer. More specifically, I am currently
 
 ## Some basic information about me 🤔
 ### Work 💼
-- 💻 I have 7 years of work experience in tech and management consulting. I am currently not considering new work offers <!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
+- 💻 I have 7 years of work experience in tech and management consulting. I am currently not considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com)-->.
    - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧; currently in: Brussels, 🇧🇪 with occassional travel to London, 🇬🇧
 <!--
 TODO add CV sometime maybe
 -->
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
-  
+
+<h3> Other projects 👀 </h3>
+
 <details>
-<summary> <h3>  Other projects 👀 (Click to see more) </h3> </summary>
+<summary><i>(Click here to see more)</i></summary>
   
 - 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
    - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard-international)
@@ -23,11 +25,11 @@ TODO add CV sometime maybe
 - 🏎 What I am most proud of: I co-founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 </details>
 
-
+<h3> Research and Teaching 🧪 </h3>
 
 <details>
-<summary> <h3> Research and Teaching 🧪 (Click to see more) </h3> </summary>
-
+<summary><i>(Click here to see more)</i></summary>
+  
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
    - 2021-????: [SCHRIJ (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
    - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
@@ -42,14 +44,14 @@ TODO add CV sometime maybe
 
 </details>
 
+<h3> Formal Education 👨‍🎓 </h3>
 
 <details>
-<summary> <h3> Formal Education 👨‍🎓 (Click to see more) </h3> </summary>
+<summary><i>(Click here to see more)</i></summary>
 
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
 - 🏫 I’m currently studying Technology Policy at Cambridge University, where I serve as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
-
 
 </details>
 
