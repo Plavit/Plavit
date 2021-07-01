@@ -5,8 +5,8 @@ My name is Marek and I am a Software Engineer. More specifically, I am currently
 
 ## Some basic information about me 🤔
 ### Work 💼
-- 💻 I have 7 years of work experience in tech and management consulting. I am currently not actively considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
-   - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧; currently in: Cambridge & London, 🇬🇧
+- 💻 I have 7 years of work experience in tech and management consulting. I am currently not considering new work offers <!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com).-->
+   - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧; currently in: Brussels, 🇧🇪 with occassional travel to London, 🇬🇧
 <!--
 TODO add CV sometime maybe
 -->
