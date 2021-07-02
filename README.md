@@ -1,11 +1,11 @@
 # Hello there 👋
 
-My name is Marek and I am a Software Engineer. More specifically, I am currently a Technical Team Lead and Researcher in Computer Science, Artificial intelligence & Sustainability and I am also interested in policies and decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@gmail.com)!
+My name is Marek and I am a Software Engineer. I am currently a Technical Team Lead and Researcher in the fields of Computer Science, Artificial intelligence and Sustainability, lately also focusing on policies and the decision making in these fields. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.szeles@eforce.cvut.cz)!
               
 
 ## Some basic information about me 🤔
 ### Work 💼
-- 💻 I have 7+ years of work experience in tech and management consulting. I am currently not considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@gmail.com)-->.
+- 💻 I have 7+ years of work experience in tech and management consulting. I am currently not considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->.
    - Over 3 years at the Boston Consulting Group finishing as an IT Specialist and technical consultant, later recruited by a client
    - In the following 2 years, I have been overseeing an IT transformation at a major pharma company, ex-BCG client
    - Following that, I co-founded and led a disruptive research team developing autonomous vehicles
