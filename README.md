@@ -5,7 +5,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 
 ## Some basic information about me 🤔
 ### Work 💼
-- 🛩 Currently I am the CTO at Vizgard, an award-winning and venture-backed start-up building a "toolkit" of computer vision capabilities to augment surveillance, unmanned and counter-unmanned platforms.
+- 🤖 Currently I am the CTO at Vizgard, an award-winning and venture-backed start-up building a "toolkit" of computer vision capabilities to augment surveillance, unmanned and counter-unmanned platforms.
 - 💻 I have 7+ years of work experience in tech and management consulting. I am currently not considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->.
    - Over 3 years at the Boston Consulting Group finishing as an IT Specialist and technical consultant, later recruited by a client
    - In the following 2 years, I have been overseeing an IT transformation at a major pharma company, ex-BCG client
@@ -52,7 +52,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
-- 🏫 I’m currently studying Technology Policy at Cambridge University, where I serve as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
+- 🏫 I finished studying Technology Policy at Cambridge University (graduation pending), where I served as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
 
 </details>
 
