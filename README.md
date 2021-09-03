@@ -37,6 +37,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
    - 2018-2020: [TRACE LAB (CTU, KU Leuven, Cambridge)](https://www.trace-lab.com/); Autonomous Driving
    - 2016-2018: [STILL (Czech Technical University)](http://still.felk.cvut.cz/members.html); Software Quality  
 - 👨‍🏫 I love teaching! I have taught several undergraduate courses already:
+   - CMDIGN: AI for Digital Procurement Teacher (University of Chemistry and Technology, Fall 21)
    - CS106A CIP: Python Senior Section Lead; Teacher Mentor (Stanford University, Spring 21)
    - CS50: Python Seminar Mentor (Harvard University, Winter 20)
    - CS106A CIP: Python Section Lead (Stanford University, Spring 20)
