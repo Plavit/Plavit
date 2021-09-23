@@ -11,7 +11,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
    - In the following 2 years, I have been overseeing an IT transformation at a major pharma company, ex-BCG client
    - Following that, I co-founded and led a disruptive research team developing autonomous vehicles
    <!-- - Currently I am CTO at Vizgard, an AI startup valued at £1M+ -->
-- Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧 and remotely; currently in: Brussels, 🇧🇪 with occassional travel to London, 🇬🇧 <!-- TODO add CV sometime maybe-->
+- Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧 and remotely; currently in: <!--Prague, 🇨🇿 with occassional travel to -->London, 🇬🇧 <!-- TODO add CV sometime maybe-->
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 <h3> Other projects 👀 </h3>
 
