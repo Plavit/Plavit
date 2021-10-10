@@ -5,12 +5,11 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 
 ## Some basic information about me 🤔
 ### Work 💼
-- 🤖 Currently I am the CTO at [__Vizgard__](https://www.vizgard.com), an award-winning and venture-backed start-up building a "toolkit" of computer vision capabilities to augment surveillance, unmanned and counter-unmanned platforms. We are working on projects with several NATO armed forces and also the European Space Agency.
+- 🤖 Currently I am the CTO at [__Vizgard__](https://www.vizgard.com), an award-winning and venture-backed start-up building a toolkit of computer vision capabilities to augment surveillance, unmanned and counter-unmanned platforms. We are working on projects with several NATO armed forces and also the European Space Agency.
 - 💻 I have 7+ years of work experience in tech and management consulting. I am currently not considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->.
    - Over 3 years at the Boston Consulting Group finishing as IT Specialist / client-facing technical consultant, by which point I was recruited by one of the clients
    - In the following 2 years, I have been overseeing an M&A following with an IT transformation at a major pharma company, ex-BCG client
    - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (US), ETH Zurich (CH) or KIT (DE).
-   <!-- --> - Currently I am CTO at Vizgard, a startup providing AI for unmanned vehicles and for counter-UAV applications
 - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧 and remotely; currently in: <!---->Prague, 🇨🇿 with regular business travel to<!----> London, 🇬🇧 <!-- TODO add CV sometime maybe-->
 - 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 <h3> Other projects 👀 </h3>
