@@ -6,18 +6,20 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 ## Some basic information about me 🤔
 ### Work 💼
 - 🤖 Currently I am the CTO at [__Vizgard__](https://www.vizgard.com), an award-winning and venture-backed start-up building a toolkit of computer vision capabilities to augment surveillance, unmanned and counter-unmanned platforms. We are working on projects with several NATO armed forces and also the European Space Agency.
-- 💻 I have 7+ years of work experience in tech and management consulting. I am currently not considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. See [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details, or here is a short summary:
+- 💻 I also have 8+ years of work experience in tech and management consulting. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. See [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details, or here is a short summary:
    - Over 3 years at the Boston Consulting Group finishing as IT Specialist / client-facing technical consultant, by which point I was recruited by one of the clients
    - In the following 2 years, I have been overseeing an M&A following with an IT transformation at a major pharma company, ex-BCG client
    - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (US), ETH Zurich (CH) or KIT (DE).
 - Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧 and remotely; currently in: <!---->Prague, 🇨🇿 with regular business travel to<!----> London, 🇬🇧 <!-- TODO add CV sometime maybe-->
-- 👨‍💻 Tech stack: Python, JuPyteR, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
+- 👨‍💻 Tech stack: Python, JuPyteR Notebooks, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
+
+
 <h3> Other projects 👀 </h3>
 
 <details>
 <summary><i>(Click here to see more)</i></summary>
   
-- 🙏 I am an avid member of the Open Source Software community. Some of the projects I contributed to: 
+- 🙏 I am an avid member of the Open Source Software community. Highlighted projects I contributed to: 
    - [🏢 Dashboard for comparing eGovernment levels in different countries (Python)](https://github.com/Plavit/eGovernment-index-dashboard-international)
    - [🎖 A military tactical symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
    - [🚨 An autonomous vehicle racing simulator (C++)](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator)
@@ -49,7 +51,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 
 <details>
 <summary><i>(Click here to see more)</i></summary>
-
+- 👨‍🔬 I contributed as a PhD-level researcher at Stanford, Cambridge and Czech Technical University.
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
 - 🏫 I finished studying Technology Policy at Cambridge University (graduation pending), where I served as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
