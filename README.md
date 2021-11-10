@@ -10,7 +10,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
    - Over 3 years at the Boston Consulting Group finishing as IT Specialist / client-facing technical consultant, by which point I was recruited by one of the clients
    - In the following 2 years, I have been overseeing an M&A following with an IT transformation at a major pharma company, ex-BCG client
    - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (US), ETH Zurich (CH) or KIT (DE).
-- Experience with working in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧 and remotely; currently in: <!---->Prague, 🇨🇿 with regular business travel to<!----> London, 🇬🇧 <!-- TODO add CV sometime maybe-->
+- Experience with onsite work in 🇨🇿, 🇩🇪, 🇷🇺, 🇧🇪, 🇬🇧, 🇮🇳 and remote work as well; currently I wm based in: <!---->Prague, 🇨🇿 with regular business travel to<!----> London, 🇬🇧 <!-- TODO add CV sometime maybe-->
 - 👨‍💻 Tech stack: Python, JuPyteR Notebooks, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 
 
