@@ -51,6 +51,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 
 <details>
 <summary><i>(Click here to see more)</i></summary>
+  
 - 👨‍🔬 I contributed as a PhD-level researcher at Stanford, Cambridge and Czech Technical University.
 - 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
