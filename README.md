@@ -14,7 +14,7 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 - 👨‍💻 Tech stack: Python, JuPyteR Notebooks, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 
 
-<h3> Other projects 👀 </h3>
+<h3> Other tech projects 👀 </h3>
 
 <details>
 <summary><i>(Click here to see more)</i></summary>
