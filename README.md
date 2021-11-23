@@ -52,10 +52,11 @@ My name is Marek and I am a Software Engineer. I am currently a Technical Team L
 <details>
 <summary><i>(Click here to see more)</i></summary>
   
-- 👨‍🔬 I contributed as a PhD-level researcher at Stanford, Cambridge and Czech Technical University.
-- 🎓 I have graduated with an Engineering degree (Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
+- 👨‍🔬 I contributed as a PhD-level researcher at Stanford, Cambridge and Czech Technical University, see my profile on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao).
+- 🎓 I have graduated with an Engineering degree (Ing./MEng Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
+- 🏫 I finished studying MPhil in Technology Policy at Cambridge University (graduation pending, expected 2022), where I served as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
-- 🏫 I finished studying Technology Policy at Cambridge University (graduation pending), where I served as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
+
 
 </details>
 
