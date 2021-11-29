@@ -68,7 +68,7 @@ TBD fix Vercel API token:
 <!--
 Unused original GitHub Readme stats:-->
 <a href="https://github.com/Plavit">
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
+  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=Plavit&count_private=true&show_icons=false&include_all_commits=true&cache_seconds=7200" />
 <!-- -->
 
 <a href="https://github.com/Plavit">
