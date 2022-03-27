@@ -62,6 +62,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
    - 2018-2020: [TRACE LAB (CTU, KU Leuven, Cambridge)](https://www.trace-lab.com/); Autonomous Driving
    - 2016-2018: [STILL (Czech Technical University)](http://still.felk.cvut.cz/members.html); Software Quality  
 - 👨‍🏫 I love teaching! I have taught several undergraduate courses already:
+   - B6B36RSP: Software Project Management Teacher (Czech Technical University, Spring 22)
    - CMDIGN: AI for Digital Procurement Lecturer (University of Chemistry and Technology, Fall 21)
    - CS106A CIP: Python Senior Section Leader; Teacher Mentor (Stanford University, Spring 21)
    - CS50: Python Seminar Mentor (Harvard University, Winter 20)
