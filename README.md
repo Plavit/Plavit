@@ -26,7 +26,7 @@ Unused custom GitHub Readme stats:
 GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 -->
 
-## Some basic information about me 🤔
+## Some basic information about me ℹ
 ### Work 💼
 - 🤖 Currently I am the CTO at [__Vizgard__](https://www.vizgard.com), an award-winning and venture-backed start-up building a toolkit of computer vision capabilities to augment surveillance, unmanned and counter-unmanned platforms. We are working on projects with several NATO armed forces and also the European Space Agency.
 - 💻 I also have 8+ years of work experience both in deep tech, strategy consulting and tech leadership. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. See [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details, or here is a short summary:
