@@ -32,10 +32,10 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 - 💻 I also have 8+ years of work experience both in deep tech, strategy consulting and tech leadership. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. See [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details, or here is a short summary:
    - Over 3 years at the Boston Consulting Group finishing as IT Specialist / client-facing technical consultant, by which point I was recruited by one of the clients
    - In the following 2 years, I have been overseeing the tech aspects of an acquisition of a global pharma company, ex-BCG client. After the M&A, I was leading a successful multi-billion EUR IT transformation there.
-   - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (US), ETH Zurich (CH) or KIT (DE).
+   - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (🇺🇸), ETH Zurich (🇨🇭) or KIT (🇩🇪).
    - After I finalised my studies, I was the CTO at [__Vizgard__](https://www.vizgard.com), an award-winning and venture-backed start-up building AI for unmanned platforms. We got several prizes including from the European Space Agency, plus I was voted CTO of the year in the UK.
    <!-- - Afterwards, I turned to startups  as a senior Tech Leadership roles, having been awarded xxx in 2022 for my role of CTO at [__Vizgard__](https://www.vizgard.com), helping build its AI product and accelerate its growth.-->
-- Experience with onsite work in 🇨🇿, 🇩🇪, 🇩🇰, 🇷🇺, 🇧🇪, 🇮🇹, 🇬🇧, 🇮🇳 and remote work as well; currently I am based in: Prague, 🇨🇿 <!-- with regular business travel toLondon, 🇬🇧--> <!-- TODO add CV sometime -->
+- Experience with onsite work in 🇨🇿, 🇩🇪, 🇩🇰, 🇷🇺, 🇧🇪, 🇮🇹, 🇬🇧, 🇮🇳, 🇺🇸 and remote work as well; currently I am based in: Prague, 🇨🇿 <!-- with regular business travel toLondon, 🇬🇧--> <!-- TODO add CV sometime -->
 - 👨‍💻 Tech stack: Python, JuPyteR Notebooks, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 
 
