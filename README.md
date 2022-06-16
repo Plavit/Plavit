@@ -86,7 +86,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 
 </details>
 
-<h3> Other hobbies apart from work stuff 😏</h3>
+<h3> Other hobbies apart from work 😏</h3>
 
 <details>
 <summary><i>(Click here to see more)</i></summary>
