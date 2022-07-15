@@ -35,7 +35,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
    - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (🇺🇸), ETH Zurich (🇨🇭) or KIT (🇩🇪).
    - After I finalised my studies, I was the CTO at [__Vizgard__](https://www.vizgard.com), an award-winning and venture-backed start-up building AI for unmanned platforms. We got several prizes including from the European Space Agency, plus I was voted AI CTO of the year in the UK.
    <!-- - Afterwards, I turned to startups  as a senior Tech Leadership roles, having been awarded xxx in 2022 for my role of CTO at [__Vizgard__](https://www.vizgard.com), helping build its AI product and accelerate its growth.-->
-- Experience with onsite work in 🇨🇿, 🇩🇪, 🇩🇰, 🇧🇪, 🇳🇱, 🇮🇹, 🇬🇧, 🇮🇳, 🇺🇸, 🇷🇺, 🇰🇿 and remote work as well; currently I am based in: Prague, 🇨🇿 <!-- with regular business travel to London, 🇬🇧--> <!-- TODO add CV sometime -->
+- Experience with onsite work in 🇨🇿, 🇩🇪, 🇩🇰, 🇧🇪, 🇳🇱, 🇮🇹, 🇬🇧, 🇮🇳, 🇺🇸, 🇷🇺, 🇰🇿 and remote work as well; currently I am based in: Prague, 🇨🇿<!----> with regular business travel to Copenhagen, 🇩🇰<!---->. <!-- TODO add CV sometime -->
 - 👨‍💻 Tech stack: Python, JuPyteR Notebooks, Java, Kotlin, C++, Embedded-C, JavaScript(React, NodeJS), SQL, PHP, VBA
 
 
