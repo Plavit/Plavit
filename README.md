@@ -58,7 +58,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 <summary><i>(Click here to see more)</i></summary>
   
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
-   - 2021-current: [GAEIA (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
+   - 2021-2022: [GAEIA (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
    - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
    - 2018-2020: [TRACE LAB (CTU, KU Leuven, Cambridge)](https://www.trace-lab.com/); Autonomous Driving
    - 2016-2018: [STILL (Czech Technical University)](http://still.felk.cvut.cz/members.html); Software Quality  
@@ -79,8 +79,8 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 <summary><i>(Click here to see more)</i></summary>
   
 - 👨‍🔬 I contributed as a PhD-level researcher at Stanford, Cambridge and Czech Technical University, see my profile on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao).
+- 🏫 I finished studying MPhil in Technology Policy at University of Cambridge, Judge Business School. There, I served as a full committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
 - 🎓 I have graduated with an Engineering degree (Ing./MEng Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
-- 🏫 I finished studying MPhil in Technology Policy at Cambridge University (graduation pending, expected 2022), where I served as a committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
 
 
