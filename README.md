@@ -28,7 +28,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 
 ## Some basic information about me ℹ
 ### Work 💼
-- 🤖 Currently I am the Head of Engineering at [__Uizard__](https://www.uizard.io).
+- 🤖 Currently I am the Head of Engineering at [__Uizard__](https://www.uizard.io), leading the development of AI-powered magical features to democratize design and allow anyone to do their digital prototyping in an easy and rapid manner.
 - 💻 I also have 8+ years of work experience both in deep tech, strategy consulting and tech leadership. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. Here is a short summary of my experience, or see [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details:
    - Over 3 years at the Boston Consulting Group finishing as IT Specialist / client-facing technical consultant, by which point I was recruited by one of the clients
    - In the following 2 years, I have been overseeing the tech aspects of an acquisition of a global pharma company, ex-BCG client. After the M&A, I was leading a successful multi-billion EUR IT transformation there.
