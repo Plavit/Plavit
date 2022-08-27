@@ -82,6 +82,11 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 - 👨‍🔬 I contributed as a PhD-level researcher at Stanford, Cambridge and Czech Technical University, see my profile on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao).
 - 🏫 I finished studying MPhil in Technology Policy at University of Cambridge, Judge Business School. There, I served as a full committee member for the [Artificial Intelliegence society](http://cuai.org.uk/committee/).
 - 🎓 I have graduated with an Engineering degree (Ing./MEng Summa Cum Laude) in Software Engineering, Artificial Intelligence and Innovation Management from Czech Technical University.
+
+<!--
+  - My Bachelor Thesis concerns the potential expansion of a racecar business through a custom Augmented Reality (AR) app, you can find the thesis *here* and the app repo *here*
+  - My Engineer's Diploma Thesis covers how I created the first Czech custom fully autonomous vehicle, thesis can be found *here* and the research team repos still live on *here*
+-->
 - 👨‍💼 I also hold an MBA from Quantic School of Business and Technology
 
 
