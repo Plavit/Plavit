@@ -21,7 +21,7 @@ Unused original GitHub Readme stats:
 <!--
 Unused custom GitHub Readme stats:-->
 <a href="https://github.com/Plavit">
-  <img align="center" height="190" src="https://github-readme-stats-git-master.plavit.vercel.app/api/top-langs?username=Plavit&langs_count=10&layout=compact&include_all_commits=true&cache_seconds=14400" />
+  <img align="center" height="190" src="https://github-readme-stats-git-master.plavit.vercel.app/api/top-langs?username=Plavit&langs_count=10&layout=compact&include_all_commits=false&cache_seconds=14400" />
 
 
 <!--
