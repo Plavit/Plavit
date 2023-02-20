@@ -63,7 +63,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
    - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
    - 2018-2020: [TRACE LAB (CTU, KU Leuven, Cambridge)](https://www.trace-lab.com/); Autonomous Driving
    - 2016-2018: [STILL (Czech Technical University)](http://still.felk.cvut.cz/members.html); Software Quality  
-- 👨‍🏫 I love teaching! I have already taught several courses at university level in the past 4 years:
+- 👨‍🏫 I love teaching! I have already taught several courses at university level in the past 5 years:
    - B6B36TS1: Software Quality Teaching Fellow (Czech Technical University, Spring 23)
    - CS105: CS Senior Section Leader (Stanford University, Winter 22)
    - B6B36RSP: Software Project Management Teaching Fellow (Czech Technical University, Spring 22)
