@@ -99,11 +99,12 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 <details>
 <summary><i>(Click here to see more)</i></summary>
   
-- 🎭 I enjoy amateur theatre, reading and ballroom dancing, although I did not have enough time to dedicate to it lately.
+- 🎭 I enjoy amateur theatre, reading and ballroom dancing, although I did not have enough time to dedicate to it as of late.
 - 🎢 As a fan of thrills, my ideal teambuilding exercise involves GoKarts, Rollercoasters or a climbing wall!
-- 🎮 Lately I got back into gaming to take my mind off work in my free time, especially recing simulations - here is my PlayStation profile:
+- 🧑‍🎓 I love teaching as a way to reconnect with talent that is just starting out, and have even mentored impressive individuals to give back to society and help them achieve new heights. If you are an up and coming, ambitious student or young professional, don't hesitate to reach out and start a conversation!
+<!--- 🎮 Lately I got back into gaming to take my mind off work in my free time, especially recing simulations - here is my PlayStation profile:
 
-  ![img](https://card.psnprofiles.com/2/plavit.png)
+  ![img](https://card.psnprofiles.com/2/plavit.png)-->
 
 </details>
 
