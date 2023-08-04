@@ -30,7 +30,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 
 ## Some basic information about me ℹ
 ### Work 💼
-- 🤖 Currently I am the Head of Engineering at [__Uizard__](https://www.uizard.io), leading the development of AI-powered magical features to democratize design and allow anyone to do their digital prototyping in an easy and rapid manner.
+- 🤖 Currently I am a Visiting Scholar and Senior Teaching Fellow at [__Stanford University__](https://www.uizard.io), where I focus on researching AI applications to decarbonize the Energy sector. 
 - 💻 I also have 8+ years of work experience both in deep tech, strategy consulting and tech leadership. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. Here is a short summary of my experience, or see [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details:
    - Over 5 years in consulting mostly at the Boston Consulting Group finishing as a client-facing technical consultant, most notably overseeing the tech aspects of an acquisition of a global pharma company, and leading a successful multi-billion EUR IT transformation there.
    - Following that, I went back to academia to co-found and lead a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (🇺🇸), ETH Zurich (🇨🇭) or KIT (🇩🇪). Based on this I was invited to study and continue my research at the University of Cambridge in the UK 🇬🇧.
