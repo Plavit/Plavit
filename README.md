@@ -49,7 +49,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
    - [🎖 A military tactical symbol framework and generator (Javascript)](https://github.com/Military-Tactical-Graphics/)
    - [🚨 An autonomous vehicle racing simulator (C++)](https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator)
 - 💪 As a big fan of agile innovation, I have successfully competed at several hackathons, feel free to [check out my DevPost portfolio as well](https://devpost.com/marekszeles) if interested.
-- 🏎 What I am most proud of: I co-founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
+- 🏎 What I am most proud of: I founded and led a team of students that built the first autonomous racecar in my country! [Check it out - eForce Driverless at Czech Technical University](https://eforce.cvut.cz/en/driverless/)
 </details>
 
 <h3> Research and Teaching 🧪 </h3>
