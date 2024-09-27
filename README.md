@@ -58,6 +58,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 <summary><i>(Click here to see more)</i></summary>
   
 - 🔬Although it is not my primary focus at the moment, I am a published author and you can find my research on [Google Scholar](https://scholar.google.cz/citations?user=da4SgH8AAAAJ&hl=cs&oi=ao). My research affiliations are as follows:
+   - 2023-present: [LIMESS (CTU)](https://limess-lab.com/); AI for Sustainable Energy and Mobility Systems
    - 2023-present: [Stanford Sustainable Systems Lab (S3L)](https://ramr.sites.stanford.edu/); AI for Sustainable Energy
    - 2021-2022: [GAEIA (Stanford)](https://humanrights.stanford.edu/); AI for Sustainability
    - 2020-2021: [CUSPE (Cambridge)](http://www.cuspe.org/); Technology Policy
