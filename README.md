@@ -65,6 +65,10 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
    - 2018-2020: [TRACE LAB (CTU, KU Leuven, Cambridge)](https://www.trace-lab.com/); Autonomous Driving
    - 2016-2018: [STILL (Czech Technical University)](http://still.felk.cvut.cz/members.html); Software Quality  
 - 👨‍🏫 I love teaching! I have already taught several courses at university level in the past 5 years:
+   - CS105: CS Teaching Fellow Coordinator and Technical Expert (Stanford University, Winter 24)
+   - B6B36RSP: Software Project Management Teaching Fellow (Czech Technical University, Winter 24)
+  - CS105: CS Teaching Fellow Coordinator (Stanford University, Winter 24)
+   - CS105: CS Senior Section Leader (Stanford University, Winter 22)
    - B6B36TS1: Software Quality Teaching Fellow (Czech Technical University, Spring 23)
    - CS105: CS Senior Section Leader (Stanford University, Winter 22)
    - B6B36RSP: Software Project Management Teaching Fellow (Czech Technical University, Spring 22)
