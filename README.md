@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Marek and I am a Software Engineer. I currently serve in Engineering and Research Leadership roles in the fields of Computer Science, Artificial Intelligence and Sustainability. If you find my expertise useful, don't hesitate to [get in touch 📨](mailto:marek.miltner@cvut.cz)!
+My name is Marek and I strive to build AI systems for the benefit of humanity on a planetary scale. I currently build Planetary AI Agents at [__PangeAI__](https://www.pangeai.com), and previously built a Sustainable AI Research Lab, Autonomous Defense AI and Autonomous Racecars.
 
 <a href="https://github.com/Plavit">
   <img align="center" height="190" src="https://github-readme-stats-git-master.plavit.vercel.app/api?username=Plavit&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=7200" />
@@ -31,7 +31,7 @@ GitHub Readme stats from: https://github.com/anuraghazra/github-readme-stats
 ## Some basic information about me ℹ
 ### Work 💼
 - 🤖 Currently I am Founder and CTO at [__PangeAI Inc__](https://www.pangeai.com), where we build Planetary Geospatial AI Agents. I also still hold affiliations as a Research Scholar and Senior Teaching Fellow at [__Stanford University__](https://profiles.stanford.edu/marek-miltner), where I focus on researching AI applications to decarbonize the Energy sector and in the past was teaching Computer Science to underprivileged high-schoolers. 
-- 💻 I also have 9+ years of work experience both in deep tech, strategy consulting, and tech leadership. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. Here is a short summary of my experience, or see [my LinkedIn](https://www.linkedin.com/in/marek-szeles/) for details:
+- 💻 I also have 9+ years of work experience both in deep tech, strategy consulting, and tech leadership. I am ***not*** currently considering new work offers<!--, [let me know your proposals 💌](mailto:marek.szeles@eforce.cvut.cz)-->. Here is a short summary of my experience, or see [my LinkedIn](https://www.linkedin.com/in/marek-miltner/) for details:
    - Over 5 years in consulting mostly at the Boston Consulting Group finishing as a client-facing technical consultant, most notably overseeing the tech aspects of an acquisition of a global pharma company, and leading a successful multi-billion EUR IT transformation there.
    - Following that, I co-founded and led a disruptive research team developing autonomous racing vehicles at Czech Technical University. The team later won races and beat prestigious teams from universities including MIT (🇺🇸), ETH Zurich (🇨🇭) or KIT (🇩🇪). Based on this I was invited to study and continue my research at the University of Cambridge in the UK 🇬🇧.
    - Afterwards, I turned to startups serving in senior Tech Leadership roles, having been awarded AI Development CTO of the Year in 2022 for my role of CTO at [__Vizgard (🇬🇧)__](https://www.vizgard.com), followed by being Head of Engineering at [__Uizard (🇩🇰)__](https://www.uizard.io), a similar-sounding but very different AI startup I helped scale and get acquired.
